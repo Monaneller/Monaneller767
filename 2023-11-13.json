@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Vargas",
+  "age": 22,
+  "address": {
+    "street": "Butaf View",
+    "city": "Paatre",
+    "state": "CA",
+    "zip": "77652"
+  },
+  "contact": {
+    "phone": "(831) 512-2827",
+    "servicePhone": "800338853"
+  },
+  "birthday": "1977-07-20T16:52:31.392Z",
+  "ip": "47.156.19.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Jip go toc foc hin vi dom walzi luha polat lubpig cij huidna odo ewikodul ku la se. Dig padifrop fopdopib bajnugud kehaw ba lunji biiwdi kacak tojucrip up mes gertip we tesibur fahop ofeusa ovkikhab. Egocu ces tipgapmon itipob zevsu pawuvam depoumu dagu wadbud guiru coigugak ufe uknotig jucute sej.",
+    "bio": "Ov hidki riv mok banjab igfa tikiksut zubu efeuk esaik ruabfe taki ahgoso afbu ha ec amukag mishew. Witi imugal icuwlos zen tin latezuj lepco jewossih soricut se gehupu egacag. Memko pimgegu mo cek forve apiveet bizekiz ihofibpu oli oh pac naksawap geh wa mateni or oguarufu."
+  },
+  "apiKey": "3e2b4417ef481592dd4bcf04c3da72d341cdeb8839c91648607ac0d5cc594af4",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
