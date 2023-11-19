@@ -1,0 +1,26 @@
+{
+  "name": "Elnora Fields",
+  "age": 39,
+  "address": {
+    "street": "Ride Boulevard",
+    "city": "Butuwcu",
+    "state": "NY",
+    "zip": "42128"
+  },
+  "contact": {
+    "phone": "(453) 868-7502",
+    "servicePhone": "800634952"
+  },
+  "birthday": "1983-07-03T05:56:27.299Z",
+  "ip": "82.254.106.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Riba janit dabe nokep kur mu pikda el zizcoklek luwlubum bodopki cih ekeowi. Ke hadi eb fo sacibbuk cin ha zeguciez ribruj mew faipelu regat firos. Abuah fis ga ig odusaif togilat kobuf coksor namol ivwefahu totfuz ukaogizeb fuj jomace bac ugvapke nehtove bebagar. Egkumfis soz awi gam fufa resiwzi odu uniguv jalepo ka remtat difu huprovi acgad.",
+    "bio": "Juzhuli leguvito vedfu ifulas ku sodjamat befek no lehasabog uzono la raf nefelab sof jo difgu giussop. Gukpeva ahuze dis tufwawse hiszif tikiv vubig imtepoh ifuguamu gowgidul madugif weuzle rus coz. Vopko umfancan agilow pa ogonoh cotvewe nof bemtev jahhi is ezoonape ebukok hom ja dohhegsed zegug macjez dumvo. He sezo on nietaded ligmojwaj ifu cif ufe be osadawdid degi geczimor juhweva ni ovgan arse lijmafow. Fizini vaehaul ulji hudzihvaj ruiwa badpef zol kokanep tijnalgen en pul owa matma."
+  },
+  "apiKey": "bee621dfdb314880332b0c63a9c655581c512b1809ca5b5c07cfce86b07b3d73",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
