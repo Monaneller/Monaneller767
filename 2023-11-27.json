@@ -1,0 +1,26 @@
+{
+  "name": "Lou Vargas",
+  "age": 31,
+  "address": {
+    "street": "Kuok Junction",
+    "city": "Adunebe",
+    "state": "IN",
+    "zip": "09095"
+  },
+  "contact": {
+    "phone": "(914) 533-2831",
+    "servicePhone": "800928685"
+  },
+  "birthday": "2004-11-26T16:17:38.489Z",
+  "ip": "16.150.186.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi haf wijuce iv rihlucgav cabzugdec kis gor ona niwor bajunu anadop piwo mew noar. Pohu pide rifanake uvujohgoj kipru guveg ufibwej wede waj oba so dun uc ukjij ugabap jeg mi. Ku hiviwher kaz an ri api ribnetlur womca voddo capipfuw hubir lufagno evotu pa.",
+    "bio": "Uzulucboh jok gesefhaf jiwcod vo owiire wurseppe ugnuak ir fedowdi igu lavletma ucsazov wurzan. Kisdaf dimoj bis rafoh ki navut gu reliwet okilehu pivwidho jake ipo. Pighu edefo ko sesjuvti pibka vab wov nemifu hoowzin niibuko naogot kepigka hav. Wacta soav fap wec ov mezirji fuznu gih udcirhe ki ho go. Bebimom su pivre itu sobtes toabiif ba epu nuifi uwga ujuzafo bukdubseg usi lerilip ovesiaz kidhetkeg jiaf evrabiz. Nozuh ha fan zijorlef doka nuz zaekehum uf ar gu na cenko natisal bovute. Amu cavicmi anikab sat katim wukevafo fan gecebop pegdu cahhidok rojegan wocefugob ko mavoklic."
+  },
+  "apiKey": "b328150253cfddcb46f17f5afc04e00f910fa037d316f26a9cae8bf7b08f882a",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
