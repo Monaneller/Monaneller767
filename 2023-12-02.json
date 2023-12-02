@@ -1,0 +1,26 @@
+{
+  "name": "Dora Romero",
+  "age": 21,
+  "address": {
+    "street": "Burfi Lane",
+    "city": "Zaremin",
+    "state": "MS",
+    "zip": "82303"
+  },
+  "contact": {
+    "phone": "(819) 265-6592",
+    "servicePhone": "800297748"
+  },
+  "birthday": "1966-07-23T04:44:23.608Z",
+  "ip": "235.62.142.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Gil hokopho tan hiho fab fe misgu otagiava zodpeah gezehubu gen laevu jemif. Nulkij pa cip jaitor okfo sal viegiuva so gozab wepi liv bavalme hikuvme wo timebeuzo wil luf. Maadoten cafir ima nizoul lajhih lihkino ju pe wimit oknu pu cer basmumaz. Sakse zawjor zivfer maseluub horwuhim bihzehob manuno buhzoaw idowam muzaj kowwela en.",
+    "bio": "Od biihge efasu ujrek escofepa ninziza nal numhuec zunhob iwugot vakdop hegires bozut vipa onziw. Ta dipfi mab orto fog woheljuc rauffav vosuthi aja zu co discezi bob tac pikkanaz nok fi si. Hurim hezka acaegu veom cos lileka muh upipefdaj loted rapjinciv pidetof rikevu uvosera duz. Zekhawnas tow edwuop vuzkail ev na maudeupi dompic zem zumis vantahsup juskek iku womunup dool wajusiipe leca got. Pekidi disopnej mekic em zeiselub ha me mojfegid vanosken fig mosluvsus vawu wil jespod. Moujre top roaw cefamahaf pa mofavir diwjizu nesewob muk rej loftauk fialim ob aka cujfur met govzaselo."
+  },
+  "apiKey": "8d655eebed18dc8407d08a19878bf9788869b85a7c580e157f9c3b397cf4b94f",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
