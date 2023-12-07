@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Obrien",
+  "age": 61,
+  "address": {
+    "street": "Giac Street",
+    "city": "Tawecel",
+    "state": "VT",
+    "zip": "47582"
+  },
+  "contact": {
+    "phone": "(668) 427-9100",
+    "servicePhone": "800972669"
+  },
+  "birthday": "2003-07-31T06:08:45.710Z",
+  "ip": "200.98.17.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Gare gev fejruhak lamwin nusepav veklef fovopo ga ikpive pafigce saj lonrulgem onozoc ajso. Lefa vatul fogupaasu egno nageju ham kikrinu gi bomu gavsini ma amgonep jobdadkop. Itosethu sufgev hatwu cuze faz piazhep sika luhsugva objiru gigzilud risoiw sidbitji icci je da momu. Mizuhi piwujma ulsehke ip fom eh uteva agetev gev girijej de fid mivezhi mol. Sa uta hemjul uze sicadam sefjo tilal lavere zas panni vo sakage izube etegeb hij fihe hifimaz.",
+    "bio": "Mo se neghe veh was docecuk juc azi ovapef dunocdim sotit tinip be. Pa midonak se gud norebzuv wa kupbisho sidop boh bomugu cavnur dij puznuv me aw zealawam jocup meve. Uhasocnih ed cezocmel selpoc ewgabu gud lu umi fatam le fo nek vomomfo atuhu rahi rocaho."
+  },
+  "apiKey": "1f6f35caa6bf3346e1ab20ffa7436023dc7a2a46891b520be596eb31f8c173a7",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
