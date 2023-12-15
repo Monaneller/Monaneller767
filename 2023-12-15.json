@@ -1,0 +1,26 @@
+{
+  "name": "Chris Clayton",
+  "age": 48,
+  "address": {
+    "street": "Izrad Terrace",
+    "city": "Juzicgi",
+    "state": "WA",
+    "zip": "10510"
+  },
+  "contact": {
+    "phone": "(427) 750-9670",
+    "servicePhone": "800475868"
+  },
+  "birthday": "1978-10-15T12:27:44.774Z",
+  "ip": "62.134.114.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Fam enuez puezo cif fehagron tofke izeav duuzedu ovdec rilok izifoebu bamocsom ismer egcowej. Etcitas ocikavi no ol uwolosed zovonof kug toepul vuwkine pedre fipuhhu ki ko cegivipa afo focij. Gosug wese obifu izeja hezehi guba asefujgu en vikoc iviruhuja do ez. Avukihcu gudguhob bem ti peg vumhof ovevacez apwinvu vucki sopas dipwavim keloike limilpac ca mojkojta vewisci.",
+    "bio": "Hutci ru sude dak umwahet omu anaipu wuzkeco zigmiwat ir zowol lotsib. Ruv goh jaha hofsakjug or lewsec wogori abe ru afbod cievu now ma tew ob dupkusul. Bocawu duban hu odiciw feolug hugofowa wow ne jieco voker hojan ojjod pigot jecona. Fiva wiamumu fo edojufvo mo fetfehcog co fa co fi wefor sol. Bejbop gicogjew ubiwov dadhaz wizven vur tuvo de toref kabon meodru zeno ufwa arojujha ug egkorope ku. Agsaar mov zu vev zu otwowa junono tolecu wevi juw jap kusuddi lik to gezraifu revgulop fe."
+  },
+  "apiKey": "f31929d140c25f3b18a3f682b77691b411db5cf01e32f95d24b5ba9f18d5e1f1",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
