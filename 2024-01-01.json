@@ -1,0 +1,26 @@
+{
+  "name": "Julia Clarke",
+  "age": 42,
+  "address": {
+    "street": "Nagak Parkway",
+    "city": "Kacohe",
+    "state": "OK",
+    "zip": "58865"
+  },
+  "contact": {
+    "phone": "(201) 725-9307",
+    "servicePhone": "800696376"
+  },
+  "birthday": "1997-02-28T07:43:13.862Z",
+  "ip": "139.207.86.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Wizupab buhvesav jikaf afivejfav jekah nu le suezo ari gi uzivaat daleof va fovaboj lal. Cokineg no demgaszu gec vaclu bezgolkoc sozu da ve taskuewa lu ki renteb durgifzek vip. Teg adram fawfa tuwlurin doli ri ak ulvu cu gupsa pawof jo gefvufat dariw dabozep bechu. Vebewdaz ufijhed bohkewve zacoci sabpiro gi mujohi jenfizibe ga po ze ko iffoblor kac luh vew. Veul fazezwi korifsih moin ekehu juf sid josi ku ju mosicili wih ogu kabpasa hifegi ub ci voewrab.",
+    "bio": "Jugojuge so zojki tahri poriud sirkah ga le gehotlal lagdohab one bitew be co. Ovajuvu bih re wim cukham ospogi jo ib rofius sijiki cop uli upodo zogit did. Sivu su zu iziwehfon pab vodelvop pied namut vijegha vu juz subisi ebmawdi zajuh irozezno."
+  },
+  "apiKey": "668dcb1a0d332e76d3ba1de6a8aac5885328260c3f606a364d11c4ae40d6fd87",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
