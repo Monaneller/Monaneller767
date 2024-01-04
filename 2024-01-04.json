@@ -1,0 +1,26 @@
+{
+  "name": "Lydia Hernandez",
+  "age": 28,
+  "address": {
+    "street": "Werse Square",
+    "city": "Mecorim",
+    "state": "TN",
+    "zip": "77232"
+  },
+  "contact": {
+    "phone": "(239) 457-7369",
+    "servicePhone": "800679283"
+  },
+  "birthday": "1965-09-13T00:52:07.330Z",
+  "ip": "178.113.148.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Zelzomoge asoihlu jupit anova umvi ko jozas zilogruz alu bewwecko de deipfun lazuswi pomlethur. Udikiudu iv ferdu teh inutusceh ofoas zelighik fakuwe det fijzocef noguwca momid odne ejuvof fiwam. Ci et atojocas eforur kod some hu rohetuje venpolo haek afokarar he sona. Oz vutdieve acone mugjo bol kifo zufaci bati ku tibzoiw udidumof gaco.",
+    "bio": "Sincec zigespup uvo amo gon puw zoar if livlom aca obudif foporvul el. Dutul wo duzo powu mumtili pomva wurma pijespi pop fa erovafgal dut fej na fu tebar. Rakbiize urteje sobfetuz ud kih boched vil wa ujoala vicra cucdi ha ned zucokah."
+  },
+  "apiKey": "1f09ea788297eba8ab688615360062cf532f439e8bcc5e5ba9d74689351f5b4d",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
