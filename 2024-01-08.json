@@ -1,0 +1,26 @@
+{
+  "name": "Herman Keller",
+  "age": 58,
+  "address": {
+    "street": "Fudki Path",
+    "city": "Gomior",
+    "state": "CA",
+    "zip": "32565"
+  },
+  "contact": {
+    "phone": "(769) 677-1532",
+    "servicePhone": "800513458"
+  },
+  "birthday": "1993-11-16T22:24:10.814Z",
+  "ip": "193.85.134.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Zid bo itvuma wazigla pumges rodso vukko tinji wa fuenuli ercad era. Negpediz gahkeim eji dirime gouza wicki gipvol cisuguk aze lecipefa jowcamuh tapulwos sah. Olgus ame ri we si naritoes fibvo nudludbed zegog fendezim cozjolif noir sarju orse norsu haf zaluf zar. Adovopke mar wu dusocero dur dab lihbu agukab ufliwuga di ji tazidil diahi tekev dih adebode cume. Fev iwagigil mu evimajzis muud dicjavhe leralojo edajun teptolur hegesisor ha okbuw. Uduva cucumni junit zobkib bot bojlizhe venpuira bugedug ke emiukvo katnuwu bezne ohso hupag.",
+    "bio": "Azti ocoba wu boudtih vuclododo gule jec du cutsamgas nahbeg naem guw vi utira naz. Ikle kow suc fel taz sizmam buz womje dob sal vag jenocu muhudi vubka latwuj fo ga. Jiel fum woba bi isi jahi okozud ba zihdodpi raz donu cotceci ajboshe pifa puw hekelo."
+  },
+  "apiKey": "226028b03a16dddcce468c078347b011b7d1ccb58302f1329e345d43a8943a0c",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
