@@ -1,0 +1,26 @@
+{
+  "name": "Tony Sharp",
+  "age": 32,
+  "address": {
+    "street": "Ihode Road",
+    "city": "Aradupu",
+    "state": "NM",
+    "zip": "93657"
+  },
+  "contact": {
+    "phone": "(659) 559-1240",
+    "servicePhone": "800149742"
+  },
+  "birthday": "1970-12-18T08:33:48.887Z",
+  "ip": "205.42.165.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Hoherow zetovce ji onevow pedugsup ucugi iwdo poeh maopurun jevfu ve piera. Pubkunof nunkak sovuvu vulbucag ke ece pacmanzad ro jub lazajop hiptaw ikcit wavil isjaprot vud rozid fekuhetad. Fin itkuzlej pe pusedodid ansa imovoh sel fawowoz dedi ab ca uz dehum feh difohip ke. Zewecigof fivat bev kejnefi mutnisvov jal vibtep licwu nikeweten suvvot enesujmek rivtof oci og wummat aplinhe. Tabigtez bivti bafes cok bej gurigbi pamoc gagne iriv nit dab lez.",
+    "bio": "Vepkarig ohculo ome lirlok fid pewan remkoduj wu egavolape dovat gelazeg pesivor. Ogcacuto rubhal poufuri adu ce uh teolu aneezve avocur lu lommav iricumduh wir zutefso cerof fepronij. En agjevez bumidot vahefkih ejibup zildu kupmo wasolben vuwdez molu laeduiw junvul ama oflevin nonoj ofabpad. Opuaj ibeiz juhe epfi kunaoji hihfuze fivaofe odkocit odanide fuuweces dahjume samgov sumgurig omgeni. Baikevik rowwevho mawage cokwiiwo kizsufze ad hesancat ujogi ogotokhoh vi rut luata bo ez vohuh."
+  },
+  "apiKey": "101c15cd32e022b0ec08e8a1db010e8e1a8fd7821a9216099b0dd6a61f858ad7",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
