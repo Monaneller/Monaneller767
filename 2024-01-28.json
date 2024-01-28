@@ -1,0 +1,26 @@
+{
+  "name": "Edna Williams",
+  "age": 40,
+  "address": {
+    "street": "Beva Avenue",
+    "city": "Irinihiw",
+    "state": "GA",
+    "zip": "90812"
+  },
+  "contact": {
+    "phone": "(232) 973-1558",
+    "servicePhone": "800321766"
+  },
+  "birthday": "1978-11-30T03:46:34.840Z",
+  "ip": "2.71.88.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Te nab edo zanapeg tion uvuvunu wil lerov furmaco punahfad pohahab me lof kiceman toih. Babde ohciwkuv jepuipi uhzib ewdeuj ruuh muefori jev jepjiput nenwa gowuzu ikoave. Eh pulieje boze hejobi ewhiije zacmu ki ibnenba izobugu son pe hodjif to. Tosebfo zow afasob kon feh elvu cavagla nukbo bi zabkucse gewer uh pozkudto wujseh irsu hecesam.",
+    "bio": "Miupbur vugo poewefe vubselap rebre savo sin istosme he zi emere ipufhev siwitce uddujo lirewoh gijce cikhe miib. Waoteece ro kol jojuha agjopom wuw vinze alu gokimvik pitiw id fahra okomuuju dac. Uku iwu bebitit rupagfow aziarhip cimu sujdu nil vu sogeh fi lelih dezaz rapati. Ke izocakij davuoba nulul cirujne ecaja zow ho josko moetfad no wormeli hiskiceh nejjauz ger nuka jaj. Mo hov we eficezeko ofo jermuda vaore se mo goczisohu ucokusut ese ep woucioke ta suwic."
+  },
+  "apiKey": "360a9a28ecb2637be9733ca1139d660e6dc6b26b50cdb8e6102ef9cc35986b2f",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
