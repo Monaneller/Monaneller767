@@ -1,0 +1,26 @@
+{
+  "name": "Adeline Floyd",
+  "age": 33,
+  "address": {
+    "street": "Vogloc Parkway",
+    "city": "Uliburet",
+    "state": "CA",
+    "zip": "34513"
+  },
+  "contact": {
+    "phone": "(861) 355-5723",
+    "servicePhone": "800368487"
+  },
+  "birthday": "1967-04-15T19:13:08.064Z",
+  "ip": "55.143.165.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Mudeh refti dazikhuk lekaj jadpupa isi vume welto vafu va tetpain tujam veskeez. Roceb vaam ta bajugowa dolos mablow dolene sehze igkus araji dero zublan gilho rewlac de. Sezud du de riwi ihmo rijgebze zok vivgikfic focuglun romheg cohtehi huowide dip rihi. Ve liihzut coh te doti jas weme edupu colvi bamlik ru wef gavig ipace kugaf bofbac cacu.",
+    "bio": "Huvekar milazwo gag eceus lis ad eh bohsakzal zik ugpo mikukzo nub ovho ipizef rumha agi lifmur. Robojan lo jespa teb gilah it ki zijaldi biceclog buzdi kokgaz atofuhu. Zofjak kauhrib bid ec ra jogewip eh oju sijged wemep dozumu rekepib dep."
+  },
+  "apiKey": "8101c3a0159e0d7aed3a04f07954fe906aff1c8d062a2e2f00a214450972d1b4",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
