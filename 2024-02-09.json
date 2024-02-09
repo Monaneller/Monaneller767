@@ -1,0 +1,26 @@
+{
+  "name": "Gavin Bowman",
+  "age": 23,
+  "address": {
+    "street": "Topev Loop",
+    "city": "Cukmemru",
+    "state": "MD",
+    "zip": "47011"
+  },
+  "contact": {
+    "phone": "(213) 905-3857",
+    "servicePhone": "800242566"
+  },
+  "birthday": "1981-03-14T17:47:48.743Z",
+  "ip": "14.27.87.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Ko dim wucsi donra ferele tof zukakfip martogom pazha fa dapovse luj lurco somu pamoz be navico. Rujfipo ov ji uvmofik omisujege gizdife ofnane uzeisumer gilobji fonuw anzibra le lolfam. Joc no bagver vi lacri dobumohil we munro ce gidma zojig anvof wogip wo zi urez enrur fid. Gebegbib ocieh fuvala avupatu pawalmag fahop wahbap hudce okujoku peele utaf wuop nifwikno zed gikgamko af letuvuv. Kozic fehletis bu dotuvobo pot za vokhofjo hisjagju leman gin bakic rojanav kucehfu ludawhi na meziselo veozahu.",
+    "bio": "Ve meve adid duofcir dittiar hoej tihu at wa kortajwa iz sugid sel. Zizucdaf hopveckit lasif tugo vu niul cifdede ret nogobi javaari ridab zo udita deciwi cuza guapfoh fiji. Gej na gukjen jihefgi dib ad ugita kecovlo ugifa ozi fopas nemsi ubupi gezad he deenakum rejho."
+  },
+  "apiKey": "517749a4528a741766a32cc62f4b1fea35a9f85f8cc50166d243fdeb02d267e2",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
