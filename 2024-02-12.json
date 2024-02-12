@@ -1,0 +1,26 @@
+{
+  "name": "Alan Brock",
+  "age": 55,
+  "address": {
+    "street": "Tuhbus Park",
+    "city": "Bubvamras",
+    "state": "MS",
+    "zip": "60839"
+  },
+  "contact": {
+    "phone": "(563) 978-9724",
+    "servicePhone": "800767512"
+  },
+  "birthday": "2006-06-02T01:21:53.361Z",
+  "ip": "55.188.203.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Redavo efre rat degub es sabew zul cawem sa giffibsal kaenujol howuro. Lahvaov acuwa tipize zi jupmomi dabiwocu ezeke sopofazo gido wazamev peceg ofimhev esegazof lus ivmika wih. Cudul tetaha moobuju uf co ibezozoj rapalbop mammafev bivkabe virec kud bonviz wajvod izasisuhu ek ga ma.",
+    "bio": "Vehev ki nukomteg ba suj pidluhmi widmuk ifli mion sevuwe iw ceruc hikile. Leg awdeg jovgug har semjos oboni ac guj tozeul ri uf ofi dujwa. Vocnelum di vufijam osa eroirvo vicdurus oc gu edhuhro wigug ohniddo lumkasku muf ow zawduj. Sascogedi ozocanez udotet siric se hapac so sijejap ajautohos sizuv butuh re suem bucapag su sem. Sad odifap ihev fokuj neh zogwup ledengu gapuum itgen igahaf re regseg loub kiutji orni men ciwjol."
+  },
+  "apiKey": "27adb277557244c646c28ba13632d4956fbd6cdd85fbe27c1ff2f32481c91617",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
