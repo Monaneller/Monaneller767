@@ -1,0 +1,26 @@
+{
+  "name": "Bill Hoffman",
+  "age": 42,
+  "address": {
+    "street": "Fokva Grove",
+    "city": "Bofacso",
+    "state": "AR",
+    "zip": "24788"
+  },
+  "contact": {
+    "phone": "(464) 777-6525",
+    "servicePhone": "800731112"
+  },
+  "birthday": "1991-08-09T08:33:57.243Z",
+  "ip": "29.170.161.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Zevbefdic okehe vomig devrewur efuogeweb zes ejidu panmoub sagup eczer legili mujbe arzoas zoh uda kaargoc mobuozo. Junuolo ivogotfu biwvev fuz ilifuc jobujne suhotza fob paohoomi waile walhuznu dolojka ihusocgu cigicgat. Ekefi kucvi tawbalcel akobo lumamivet sazi hop jih vojsupwip wun awa vomhopu rime di ko beva si.",
+    "bio": "Jaziw selew uk rervac pi ritli tep kowreni gola ufsehhil wolbode como gilov futsad vopi li ziessi ilo. Satevja ta go abimu pul fu vonli vosnu gomuc punla kos apewi orvegi woubok isebuti bezhemki ke caz. Loviit uv obfubra ner go rurmik cif hushi bijhahvak sij cuirakep uked. Soh fimvi buajehep pabe lac ibka ipaur teaw suc adiguila ebojo urkegluj joece epbu. Hujvanwi moblaopa cam nawef kagucaf zubinelu fahlok kumup pod lahzumok vug isesmi ro juhakha kufar. Namhiciw low egako zisziv leipbi kuvhuvip ha mezete remeb sagvisaz nez te cog."
+  },
+  "apiKey": "ab5f4f52636e2c560bb6f50fcb6bd21ad2adbfc80c28872710a3ab98523fe2ec",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
