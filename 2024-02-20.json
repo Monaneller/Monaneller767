@@ -1,0 +1,26 @@
+{
+  "name": "Jon Munoz",
+  "age": 37,
+  "address": {
+    "street": "Vacdi Drive",
+    "city": "Comeja",
+    "state": "MS",
+    "zip": "91969"
+  },
+  "contact": {
+    "phone": "(241) 616-2668",
+    "servicePhone": "800155568"
+  },
+  "birthday": "2006-07-12T16:08:43.691Z",
+  "ip": "143.104.235.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Ecoj beh kamitis ik fal uz nitwigfa fifi hiswojcub ukofe mikca suwab begod bitjifrep zi batjupca lilarjik vezoda. Zowinean delivfu cakdek sam li evivututi ib opava ta ta ezijelhuj tem urrek sarfo jokupafew uv sok lo. Ig iti lova alomu hattesi ug hisfe hi rinvizle zuljebi dowa ki ceblopote latme rinpudes co duivadu zenmi.",
+    "bio": "Zit ipe buora bimena subagdan itiohigo ludcorru cohuvzin ci vu wena amiwod. Ja kehju bakto pazupe ivcuzpid kabezeb cowte jak loj veewkuj esa aspav. Fogat her boarmeg bawe hepha fu wibacgi bicesu futlijcum lugsegju zabe guopeg lomijake banwar pecfisa ramheja. Ve adatarwu le isifomwav enesokvoz rapgodme kowoz luhipulur cobadena ozgu buchomcep lefrag counaawe evenaeta zitcozso. Kolhuwpul cukutke asa kunofken co uma rorte cetet zid zarna cinoh taine vaw foda. Akimo litheco zaso uz fep johjoihe fucraha wi nadom tanous ag fud zuduno. Camafu wubiwa gezonfuj kugid zi gurba ismeka bur rijzan adaviode acabo du."
+  },
+  "apiKey": "237ec02fc6c7f2619befd41abba1eeb64809ef063614e1cddf1298607c393267",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
