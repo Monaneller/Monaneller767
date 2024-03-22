@@ -1,0 +1,26 @@
+{
+  "name": "Irene Moss",
+  "age": 56,
+  "address": {
+    "street": "Vanva Road",
+    "city": "Kujipja",
+    "state": "IL",
+    "zip": "76730"
+  },
+  "contact": {
+    "phone": "(911) 224-9958",
+    "servicePhone": "800123345"
+  },
+  "birthday": "1984-04-07T07:29:31.643Z",
+  "ip": "191.120.111.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Galpe bolug va ba dutagho vaukpez vugo raho mata socorneg jormis feroohi riba me maimu revecabo. Pe ewespa faaba jur ote kiwewug ehtead ro kus du nigwa sezpejkog hu duvburec don. Curas ruzhin guhifro de dumawivo id baj bigira on maduwdo fu vot melromi torkeob icaado nochaf lozo zaze. Onivietu uhifanfag fu cadedi ci ecpuz conjum bawsuhtip mi rasoc emewev diuje mewzar eme div.",
+    "bio": "Fibuwe kugna ulhi futajgup wuzbi famajico ukoiwiliv fov woohula dorgivhuc momepsag fauf. Ruf mejaz menlo nade mipcot pi modtireg vofiape foorivag towine re monwuje uwoli ruwurak. Pan munode junwitka latlesu hawo tul caso pa riket oci ji vo naka ecoroafo utzunaf beb boma nasjop."
+  },
+  "apiKey": "d5f4f9aea60733042f7428364fdd6af2b5e657070af0342ce4b0d1753c5031ab",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
