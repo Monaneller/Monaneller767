@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Montgomery",
+  "age": 37,
+  "address": {
+    "street": "Vekjam Plaza",
+    "city": "Wofamber",
+    "state": "VT",
+    "zip": "07616"
+  },
+  "contact": {
+    "phone": "(401) 220-1123",
+    "servicePhone": "800589679"
+  },
+  "birthday": "1995-06-02T02:27:04.821Z",
+  "ip": "113.230.22.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Ti pil lujlek nohbisup furar taj am pojfogka zoriv lahediv caj ledmukak bimer ej icbi ulotogdej bughes. Hug wifobuka ducito cuc ebko ofoin ra emonihves ugnahe haohunuw edu wogko ucauwsuf jo. Feuze fulgeveca jekavi jo hi ziok weftodpub edoajto ek waesudom li punruji tekga rek. Biwo bucgufwo gapahedu niwobu pat jucmutaw ulhozud uma coswor osgin len akhibot uggahoku ile webi. Bunrenupo guwtuvful miwos bip jobbet metniwum ve zobam posre ko monoho maser ar alo fam vih. Luwidiud ataokadu hon fup valjul luvofiso ane geco hizmo heltusu fojbur mesetav havef mojnobsu.",
+    "bio": "Tezic ne ebilof sizoj jazhufib awmu pitimfu sezgiz mehup iwcicme ko niwiza totsujmi megrojle luk vok. Wuhafuso ladol nuhnacivi fe relo rajocoro fal zagidta cibwuna ahovewuj witru ajubas somowa efmibu ra cufbari uru. Bir negunha wocarvos hil pac igib dajorew geddebje kozfab sinuv bug wudu mogpepno."
+  },
+  "apiKey": "0f9f7d7443c30c42a4f7a853b4b560c06fb890717e7290d8a81db6909a02be50",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
