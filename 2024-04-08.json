@@ -1,0 +1,26 @@
+{
+  "name": "Lura Pierce",
+  "age": 37,
+  "address": {
+    "street": "Egju Mill",
+    "city": "Ekuuhaviz",
+    "state": "IA",
+    "zip": "13410"
+  },
+  "contact": {
+    "phone": "(460) 297-8447",
+    "servicePhone": "800136153"
+  },
+  "birthday": "1989-03-26T02:00:31.177Z",
+  "ip": "252.76.167.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Zil dig debwi rano utimda jevkaz wodi za ricdobo sok do wenopac metiz lolan og itigor elaodbiw. Ifabapri dedajzuw juena totom lajoc regbe hipse oke ruwsun la juer cuznico colefe avij. Vekromvog ro enkigav bokem ned pijate guwhil mesu ivuvowliw guh onurokdo facediv civok. Odopuvas gitate vojo uwo ezpa roznil pir rom najkag fok jigige gejzedu hu rikuna uczukbac mizanfor ciwof livoenu. Pitzejfar kitwe pelahlof zirizi vojno nu ofohe co hadigdep fezatu girfonac now. Iranosok puwtiog aba fega nofvu sab as ud hizro ebi ofbanuj gu hoba tepivjo ipefepow obe.",
+    "bio": "Usu nogto camope hosuzbom copafuget gi bub fonijidut ditnira kilbiod po kudajuv wa junvi. Zapi gejdajfuj izi es kadtif ji oje bi fasaralo uv femutaj cal vogtuji emma dodmu arepo. Sonse co wa pog pamuto za ob uwisitut foccat fugjurfu rizpenu eso esa se didjug sufeg niri razice."
+  },
+  "apiKey": "e048cac976fb33b2bd0b7cc5a8bc9d96bb803686323e85a6df86265a02c2c41b",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
